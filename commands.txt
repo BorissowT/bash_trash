@@ -1,0 +1,5 @@
+ls –l   => Standardausgabe 
+ls –l > muell.txt => Ausgabe in Datei „muell.txt“ 
+
+less $1 > test   überschreiben	
+less $2 >> test  am Ende hinzufügen
